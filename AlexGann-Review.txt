@@ -1,0 +1,11 @@
+The program is not only fully functional, but goes above and beyond the requirements of the assignment.
+I particularly like the ability to pull up the Wikipedia page on the state.
+
+I would have liked to see the image of the US in Form 1 better-centered. The top quarter of the country is
+cut off. The collapsible menus are a nice touch, though it's not immediately obvious that they are collapsible
+and they overlap some of the data. Otherwise, the interface is very nice as far as readability and usability.
+
+Comments were simple but explanatory. I would have liked to see some more in certain sections, such as the
+'Generate and Open HTML' method. Code was solid and well-written, though I saw at least one empty method.
+
+Also, I found yo mama. She's a nice lady, be good to her.
